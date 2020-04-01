@@ -33,7 +33,7 @@
     <commons.io.version>2.4</commons.io.version>
     <ojdbc.version>11.2.0.3</ojdbc.version>
     <avro.version>1.9.1</avro.version>
-    <hive-jdbc.version>1.2.1</hive-jdbc.version>
+    <hive-jdbc.version>3.1.2</hive-jdbc.version>
     <hadoop.version>2.7.3</hadoop.version>
     <postgresql.driver.version>9.4-1201-jdbc41</postgresql.driver.version>
 
